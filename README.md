@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <h1 align="left">hey there 👋</h1>
 
 ###
